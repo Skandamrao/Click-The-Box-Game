@@ -46,16 +46,8 @@ The goal is simple: click the moving red box to earn points before it disappears
 
 ---
 
-## 📸 Screenshot  
-*(Add a screenshot of your game here once ready!)*  
-
----
-
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!  
 Feel free to fork this repo and submit a pull request.  
 
 ---
-
-## 📜 License
-This project is licensed under the **MIT License**.  
